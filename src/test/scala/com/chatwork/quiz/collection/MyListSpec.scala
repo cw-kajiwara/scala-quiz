@@ -1,7 +1,7 @@
 package com.chatwork.quiz.collection
 
-import com.chatwork.quiz.{MySome, MyNone}
-import org.scalatest.{FunSpec, Matchers}
+import com.chatwork.quiz.{ MySome, MyNone }
+import org.scalatest.{ FunSpec, Matchers }
 
 class MyListSpec extends FunSpec with Matchers {
 

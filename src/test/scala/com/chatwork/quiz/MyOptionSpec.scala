@@ -1,6 +1,6 @@
 package com.chatwork.quiz
 
-import org.scalatest.{Matchers, FunSpec}
+import org.scalatest.{ Matchers, FunSpec }
 
 class MyOptionSpec extends FunSpec with Matchers {
 
